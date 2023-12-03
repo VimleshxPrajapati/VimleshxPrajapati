@@ -29,3 +29,4 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)    
 
 ---
+ - 📫 How to reach me: [vimleshprajapati80@gmail.com](mailto:vimleshprajapati80@gmail.com)
