@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Pythonist
 - 🌱&nbsp; Learning more about Algorithms.
-- ⚡️ &nbsp; Fun fact : I like Web Surfing.
+- ⚡️ &nbsp; Fun fact : I enjoy Web Surfing.
 
 ---
 
